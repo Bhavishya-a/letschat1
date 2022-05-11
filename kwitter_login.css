@@ -1,0 +1,24 @@
+body {
+    background-image:url("cool.jpg") ;
+    background-size: cover;
+}
+#add_user {
+    background-image: url("photo-1553095066-5014bc7b7f2d.jpg");
+    opacity: 0.4;
+    width: 300px;
+    height:400px;
+    background-position:top;
+}
+#add_user:hover{
+    opacity: 1;
+}
+#login {
+    color: aliceblue;
+    margin-top: 100px;
+}
+#login_1{
+    margin-top: 100px;
+}
+#img{
+    margin-top: 5px;
+}
